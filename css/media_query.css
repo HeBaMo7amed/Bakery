@@ -1,0 +1,249 @@
+/*  */
+@media screen and(max-width :600px) {
+    .container{
+        width: 100%;
+    }
+    .nav-logo{
+        width: 100%;
+    }
+
+}
+@media screen and(min-width :601px) {
+    .container {
+        width: 50%;
+    }
+    .nav-logo {
+        width: 50%;
+    }
+}
+@media screen and(min-width :768px) {
+    .container {
+        width: 33.33%;
+    }
+    .nav-logo{
+        width: 33.33%;
+    }
+}
+@media screen and(min-width :992px) {
+    .container {
+        width: 25%;
+    }
+    .nav-logo{
+        width: 25%;
+    }
+}
+@media screen and(min-width :1200px) {
+    .container {
+        width: 20%;
+    }
+    .nav-logo{
+        width: 20%;
+    }
+}
+
+/* home */
+@media screen and(max-width :600px) {
+    .homestyle {
+        width: 100%;
+    }
+}
+@media screen and(min-width :601px) {
+    .homestyle {
+        width: 50%;
+    }
+}
+@media screen and(min-width :768px) {
+    .homestyle {
+        width: 33.33%;
+    }
+}
+@media screen and(min-width :992px) {
+    .homestyle {
+        width: 25%;
+    }
+}
+@media screen and(min-width :1200px) {
+    .homestyle {
+        width: 20%;
+    }
+}
+
+/* about */
+@media screen and(max-width :600px) {
+    .container {
+        width: 100%;
+    }
+}
+@media screen and(min-width :601px) {
+    .container {
+        width: 50%;
+    }
+}
+@media screen and(min-width :768px) {
+    .container {
+        width: 33.33%;
+    }
+}
+@media screen and(min-width :992px) {
+    .container {
+        width: 25%;
+    }
+}
+@media screen and(min-width :1200px) {
+    .container {
+        width: 20%;
+    }
+}
+
+/* location */
+@media screen and(max-width :600px) {
+    .container {
+        width: 100%;
+    }
+}
+@media screen and(min-width :601px) {
+    .container {
+        width: 50%;
+    }
+}
+@media screen and(min-width :768px) {
+    .container {
+        width: 33.33%;
+    }
+}
+@media screen and(min-width :992px) {
+    .container {
+        width: 25%;
+    }
+}
+@media screen and(min-width :1200px) {
+    .container {
+        width: 20%;
+    }
+}
+
+/* our */
+@media screen and(max-width :600px) {
+    .container {
+        width: 100%;
+    }
+
+}
+@media screen and(min-width :601px) {
+    .container {
+        width: 50%;
+    }
+
+}
+@media screen and(min-width :768px) {
+    .container {
+        width: 33.33%;
+    }
+}
+@media screen and(min-width :992px) {
+    .container {
+        width: 25%;
+    }
+    
+}
+@media screen and(min-width :1200px) {
+    .container {
+        width: 20%;
+    }
+}
+
+/* contact */
+@media screen and(max-width :600px) {
+    .container{
+        width: 100%;
+    }
+}
+@media screen and(min-width :601px) {
+    .container {
+        width: 50%;
+    }
+}
+@media screen and(min-width :768px) {
+    .container {
+        width: 33.33%;
+    }
+} 
+@media screen and(min-width :992px) {
+    .container {
+        width: 25%;
+    }
+}
+@media screen and(min-width :1200px) {
+    .container {
+        width: 20%;
+    }
+}
+
+/* listt */
+@media screen and(max-width :600px) {
+    .container{
+        width: 100%;
+    }
+}
+@media screen and(min-width :601px) {
+    .container {
+        width: 50%;
+    }
+}
+@media screen and(min-width :768px) {
+    .container {
+        width: 33.33%;
+    }
+}
+@media screen and(min-width :992px) {
+    .container {
+        width: 25%;
+    }
+}
+@media screen and(min-width :1200px) {
+    .container {
+        width: 20%;
+    }
+}
+
+/* bacery */
+@media screen and(max-width :600px) {
+    .bacery-img {
+        width: 100%;
+    }
+    .icons{
+        width: 100%;
+    }
+}
+@media screen and(min-width :601px) {
+    .bacery-img {
+        width: 50%;
+    }
+    .icons{
+        width: 50%;
+    }
+}
+@media screen and(min-width :768px) {
+    .bacery-img {
+        width: 33.33%;
+    }
+    .icons{
+        width: 33.33%;
+    }
+}
+@media screen and(min-width :992px) {
+    .bacery-img {
+        width: 25%;
+    }
+    .icons {
+        width: 25%;
+    }
+}
+@media screen and(min-width :1200px) {
+    .bacery-img {
+        width: 20%;
+    }
+    .icons{
+        width: 20%;
+    }
+}
