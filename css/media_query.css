@@ -60,7 +60,10 @@
     .Location-content {
         width: 100%;
     }
-
+    .our-content {
+        width: 200%;
+        text-align: center;
+    }
     .our {
         width: 100vh;
         display: flex;
@@ -214,6 +217,7 @@
     .Location-content {
         width: 50%;
     }
+ 
     .our {
         width: 33.33%;
     }

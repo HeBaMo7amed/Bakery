@@ -35,10 +35,6 @@
 
 }
 
-.container {
-    width: 90%;
-    margin: auto;
-}
 .nav-logo 
 {
     float: left;
@@ -127,11 +123,6 @@
  
 }
 
-.container {
-    width: 90%;
-    margin: auto;
-}
-
 .about-img {
     width: 50%;
     float: left;
@@ -184,11 +175,6 @@
 
 }
 
-.container {
-    width: 90%;
-    margin: auto;
-}
-
 .Location-img {
     width: 50%;
     float: right;
@@ -229,11 +215,6 @@
     background-color: #ffff;
     padding: 60px 0;
 
-}
-
-.container {
-    width: 100%;
-    margin: auto;
 }
 
 .our {
@@ -301,10 +282,7 @@
 
 }
 
-.container {
-    width: 90%;
-    margin: auto;
-}
+
 
 
 .Contact-map {
