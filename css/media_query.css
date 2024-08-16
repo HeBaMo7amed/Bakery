@@ -79,11 +79,13 @@
     align-items: center;
     flex-direction: column;
 }
+
     .Contact-map {
         width: 100%;
     }
     .Contact-content {
         width: 100%;
+        margin: 30px;
     }
 
     .row {
@@ -104,6 +106,11 @@
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
+    body{
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
     .home {
         background-image: url("../img/WhatsApp\ Image\ 2024-03-21\ at\ 1.32.16\ PM.jpeg");
          width: 100%;
@@ -118,28 +125,29 @@
     }
 
     .about-img {
-        width: 90%;
+        width: 100%;
     }
     .about-content {
-        width: 90%;
+        width: 100%;
     }
     .Location-img {
-        width: 90%;
+        width: 100%;
     }
     .Location-content {
-        width: 90%;
+        width: 100%;
     }
     .our {
-        width: 90%;
+        width: 100%;
     }
     .Contact-map {
-        width: 90%;
+        width: 100%;
     }
     .Contact-content {
-        width: 90%;
+        width: 100%;
+        margin: 30px;
     }
     .row {
-        width: 90%;
+        width: 100%;
     }
 
 
@@ -147,6 +155,11 @@
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+    body{
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
     .home {
         background-image: url("../img/WhatsApp\ Image\ 2024-03-21\ at\ 1.32.16\ PM.jpeg");
          width: 100%;
@@ -161,26 +174,27 @@
     }
 
     .about-img {
-        width: 70%;
+        width: 100%;
     }
     .about-content {
-        width: 70%;
+        width: 100%;
     }
     .Location-img {
-        width: 70%;
+        width: 100%;
     }
     .Location-content {
-        width: 70%;
+        width: 100%;
     }
     .our {
 
         width: 50%;
     }
     .Contact-map {
-        width: 70%;
+        width: 90%;
     }
     .Contact-content {
-        width: 70%;
+        width: 90%;
+        margin: 30px;
     }
     .row {
         width: 50%;
