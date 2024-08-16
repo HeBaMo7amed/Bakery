@@ -58,6 +58,11 @@
     color: #F8F8F8;
     font-size: 110%;
 }
+.nav-links ul li a {
+    color: #F8F8F8;
+    text-decoration: none;
+   
+}
 
 .clear-fix {
     clear: both;
