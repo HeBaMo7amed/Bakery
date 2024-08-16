@@ -1,249 +1,159 @@
-/*  */
-@media screen and(max-width :600px) {
-    .container{
-        width: 100%;
-    }
-    .nav-logo{
-        width: 100%;
-    }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
 
-}
-@media screen and(min-width :601px) {
-    .container {
-        width: 50%;
-    }
     .nav-logo {
-        width: 50%;
-    }
-}
-@media screen and(min-width :768px) {
-    .container {
-        width: 33.33%;
-    }
-    .nav-logo{
-        width: 33.33%;
-    }
-}
-@media screen and(min-width :992px) {
-    .container {
-        width: 25%;
-    }
-    .nav-logo{
-        width: 25%;
-    }
-}
-@media screen and(min-width :1200px) {
-    .container {
-        width: 20%;
-    }
-    .nav-logo{
-        width: 20%;
-    }
-}
-
-/* home */
-@media screen and(max-width :600px) {
-    .homestyle {
+        float: left;
         width: 100%;
     }
-}
-@media screen and(min-width :601px) {
-    .homestyle {
-        width: 50%;
-    }
-}
-@media screen and(min-width :768px) {
-    .homestyle {
-        width: 33.33%;
-    }
-}
-@media screen and(min-width :992px) {
-    .homestyle {
-        width: 25%;
-    }
-}
-@media screen and(min-width :1200px) {
-    .homestyle {
-        width: 20%;
-    }
-}
-
-/* about */
-@media screen and(max-width :600px) {
-    .container {
+    .nav-links ul {
+        float: right;
         width: 100%;
     }
-}
-@media screen and(min-width :601px) {
-    .container {
-        width: 50%;
-    }
-}
-@media screen and(min-width :768px) {
-    .container {
-        width: 33.33%;
-    }
-}
-@media screen and(min-width :992px) {
-    .container {
-        width: 25%;
-    }
-}
-@media screen and(min-width :1200px) {
-    .container {
-        width: 20%;
-    }
-}
-
-/* location */
-@media screen and(max-width :600px) {
-    .container {
+    .about-img {
         width: 100%;
     }
-}
-@media screen and(min-width :601px) {
-    .container {
-        width: 50%;
+    .about-content {
+        width: 100%;
     }
-}
-@media screen and(min-width :768px) {
-    .container {
-        width: 33.33%;
+    .Location-img {
+        width: 100%;
     }
-}
-@media screen and(min-width :992px) {
-    .container {
-        width: 25%;
+    .Location-content {
+        width: 100%;
     }
-}
-@media screen and(min-width :1200px) {
-    .container {
-        width: 20%;
+    .our {
+        width: 100%;
     }
-}
-
-/* our */
-@media screen and(max-width :600px) {
-    .container {
+    .Contact-map {
+        width: 100%;
+    }
+    .Contact-content {
         width: 100%;
     }
 
+    .row {
+        width: 100%;
+    }
+
+
 }
-@media screen and(min-width :601px) {
-    .container {
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+    .about-img {
+        width: 90%;
+    }
+    .about-content {
+        width: 90%;
+    }
+    .Location-img {
+        width: 90%;
+    }
+    .Location-content {
+        width: 90%;
+    }
+    .our {
+        width: 90%;
+    }
+    .Contact-map {
+        width: 90%;
+    }
+    .Contact-content {
+        width: 90%;
+    }
+    .row {
+        width: 90%;
+    }
+
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+    .about-img {
+        width: 70%;
+    }
+    .about-content {
+        width: 70%;
+    }
+    .Location-img {
+        width: 70%;
+    }
+    .Location-content {
+        width: 70%;
+    }
+    .our {
+
         width: 50%;
+    }
+    .Contact-map {
+        width: 70%;
+    }
+    .Contact-content {
+        width: 70%;
+    }
+    .row {
+        width: 50%;
+        float: left;
+        margin: auto;
     }
 
 }
-@media screen and(min-width :768px) {
-    .container {
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+ 
+    .about-img {
+        width: 50%;
+    }
+    .about-content {
+        width: 50%;
+    }
+    .Location-img {
+        width: 50%;
+    }
+    .Location-content {
+        width: 50%;
+    }
+    .our {
         width: 33.33%;
     }
-}
-@media screen and(min-width :992px) {
-    .container {
-        width: 25%;
+    .Contact-map {
+        width: 50%;
     }
-    
-}
-@media screen and(min-width :1200px) {
-    .container {
-        width: 20%;
+    .Contact-content {
+        width: 33.33%;
+    }
+    .row {
+        width: 33.33%;
     }
 }
 
-/* contact */
-@media screen and(max-width :600px) {
-    .container{
-        width: 100%;
-    }
-}
-@media screen and(min-width :601px) {
-    .container {
-        width: 50%;
-    }
-}
-@media screen and(min-width :768px) {
-    .container {
-        width: 33.33%;
-    }
-} 
-@media screen and(min-width :992px) {
-    .container {
-        width: 25%;
-    }
-}
-@media screen and(min-width :1200px) {
-    .container {
-        width: 20%;
-    }
-}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
 
-/* listt */
-@media screen and(max-width :600px) {
-    .container{
-        width: 100%;
-    }
-}
-@media screen and(min-width :601px) {
-    .container {
+    .about-img {
         width: 50%;
     }
-}
-@media screen and(min-width :768px) {
-    .container {
-        width: 33.33%;
+    .about-content {
+        width: 50%;
     }
-}
-@media screen and(min-width :992px) {
-    .container {
+    .Location-img {
+        width: 50%;
+    }
+    .Location-content {
+        width: 50%;
+    }
+    .Contact-map {
+        width: 40%;
+    }
+    .Contact-content {
+        width: 50%;
+    }
+    .row {
         width: 25%;
     }
-}
-@media screen and(min-width :1200px) {
-    .container {
-        width: 20%;
-    }
-}
 
-/* bacery */
-@media screen and(max-width :600px) {
-    .bacery-img {
-        width: 100%;
-    }
-    .icons{
-        width: 100%;
-    }
-}
-@media screen and(min-width :601px) {
-    .bacery-img {
-        width: 50%;
-    }
-    .icons{
-        width: 50%;
-    }
-}
-@media screen and(min-width :768px) {
-    .bacery-img {
-        width: 33.33%;
-    }
-    .icons{
-        width: 33.33%;
-    }
-}
-@media screen and(min-width :992px) {
-    .bacery-img {
-        width: 25%;
-    }
-    .icons {
-        width: 25%;
-    }
-}
-@media screen and(min-width :1200px) {
-    .bacery-img {
-        width: 20%;
-    }
-    .icons{
-        width: 20%;
-    }
 }
